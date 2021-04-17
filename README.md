@@ -1,1 +1,1 @@
-# USACO-Contest-Chinese-Translation
+# USACO Contest Chinese Translation
