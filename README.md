@@ -14,8 +14,11 @@
 
 6/16/2021:
 
-- USACO 2017 December S
-- USACO 2017 Silver February
+- USACO 2017 December Silver
+- USACO 2017 February Silver
+- USACO 2017 US Open Silver
+- USACO 2018 January Silver
+- USACO 2019 February Silver
 
 6/18/2021: 
 
