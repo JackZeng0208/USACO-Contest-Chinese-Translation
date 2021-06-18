@@ -22,5 +22,5 @@
 
 6/18/2021: 
 
-- USACO 2017 January
-- USACO 2016 December
+- USACO 2017 January Silver
+- USACO 2016 December Silver
