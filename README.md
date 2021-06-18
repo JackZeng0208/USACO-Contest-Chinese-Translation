@@ -1,7 +1,7 @@
 # USACO 比赛中文翻译/USACO Contest Chinese Translation
 
-这是我的第一个公开项目，还请各位多多支持！
-以下是一些介绍和备注：
+## 这是我的第一个公开项目，还请各位多多支持！
+### 以下是一些介绍和备注：
 
 1. USACO 2018 February 以后的比赛都有官方中文，因此不在此处罗列。请直接查看官网：[USACO Official Website](usaco.org)
 2. 本翻译将着重于USACO铜级和银级题目的翻译。一个很重要的原因便是中文互联网上有关早年（如2011，2012年）USACO铜和银级的中文翻译实在是很少。现存的一些翻译直接将题目的核心考点概括出来，这不太利于初学者进行比赛模拟练习。
@@ -10,3 +10,14 @@
 5. 所有翻译均为markdown文档格式。
 6. 翻译内容将不定期更新。
 
+### 更新日志：
+
+6/16/2021:
+
+- USACO 2017 December S
+- USACO 2017 Silver February
+
+6/18/2021: 
+
+- USACO 2017 January
+- USACO 2016 December
