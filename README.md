@@ -12,7 +12,7 @@
 
 ### 更新日志：
 
-6/16/2021:
+#### 6/16/2021:
 
 - USACO 2017 December Silver
 - USACO 2017 February Silver
@@ -20,7 +20,18 @@
 - USACO 2018 January Silver
 - USACO 2019 February Silver
 
-6/18/2021: 
+#### 6/18/2021: 
 
 - USACO 2017 January Silver
 - USACO 2016 December Silver
+
+#### 6/20/2021：
+
+- USACO 2011 November Bronze
+- USACO 2015 December Bronze
+- USACO 2015 US Open Bronze
+- USACO 2016 January Bronze
+- USACO 2016 February Bronze
+- USACO 2016 US Open Bronze
+- USACO 2017 December Bronze
+- USACO 2017 February Bronze
