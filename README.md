@@ -40,3 +40,7 @@
 
 - USACO 2016 February Silver
 - USACO 2016 US Open Silver
+
+#### 6/30/2021
+
+- USACO 2016 January Silver
