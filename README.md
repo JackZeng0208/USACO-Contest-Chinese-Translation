@@ -48,4 +48,5 @@
 #### 7/4/2021
 
 - USACO 2015 December Silver
+- USACO 2015 US Open Silver
 
